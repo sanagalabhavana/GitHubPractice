@@ -9,5 +9,9 @@ public class Class1Test {
 	public void class1() {
 		Reporter.log(".........Hi shantha........",true);
 		Reporter.log(".........Hi shantha........",true);
+		
+		Reporter.log(".........Hi bhavana welcome to jenkins........",true);
+		
+		
 	}
 }
